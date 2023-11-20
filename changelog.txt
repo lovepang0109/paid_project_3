@@ -1,0 +1,231 @@
+====================
+----- 10/03/2023 ---
+====================
+Added : Nuxt version has been added.
+
+====================
+----- 02/03/2023 ---
+====================
+Added : .NET version has been added
+Update(Vue): Version has been update
+	     the Pin feature has been added		
+	     components updated
+	     ecommace and create dynamic ecommace
+
+Update(React) : Resolved some deprecation issue.
+		Remove the react-image-lightbox.
+		react-photoswipe-gallery package
+
+
+
+====================
+----- 20/2/2023 ---
+====================
+Updated: design updated (figma version)
+Updated: HTML version below points
+	 scrollable.html
+	 tree.html
+	 toasts.html
+	 rating.html
+	 dropzone.html
+	 tour.html
+	 sweet-alert2.html
+	 modal-animated.html
+	 owl-carousel.html
+	 ribbons.html
+	 pagination.html
+	 breadcrumb.html
+	 range-slider.html
+	 image-cropper.html
+	 basic-card.html
+	 creative-card.html
+	 dragable-card.html
+	 timeline-v-1.html
+Added: Pin functionality added on sidebar 
+Added: Added new leftlet js on Maps js page
+Removes: Remove below pages
+	 bootstrap-notify.html
+	 sticky.html
+	 tabbed-card.html
+	 timeline-v-2.html
+	 form-builder-1.html
+	 form-builder-2.html
+	 pagebuild.html
+	 button-builder.html
+	 time-picker.html
+
+====================
+----- 1/02/2023 ---
+====================
+Update : cuba react Remove Firebase and auth0 from Cuba because of the are not stable
+
+====================
+----- 21/1/2023 ---
+====================
+Update : design updated (figma version)
+update : HTML version below points
+	 typography.html
+	 avatars.html
+	 helper-classes.html
+	 grid.html
+	 tag-pills.html
+	 progress-bar.html
+	 modal.html
+	 alert.html
+	 popover.html
+	 Tooltip page
+	 dropdown.html
+	 according.html
+	 tab-bootstrap.html
+	 list.html
+Remove: remove below pages
+	box-shadow.html
+	loader.html
+	tab-material.html
+
+====================
+----- 18/1/2023 ---
+====================
+Update : design updated (React version)
+
+====================
+----- 30/12/2022 ---
+====================
+Update : design updated (Angular version)
+
+====================
+----- 30/12/2022 ---
+====================
+Update : design updated (HTML,laravel,Django,codelgter,node,php,flask,Node Js)
+Update : node version updated
+added : symfony version has been added
+
+====================
+----- 11/10/2022 ---
+====================
+added : react context version has been added
+
+====================
+----- 01/10/2022 ---
+====================
+added : Node version has been added
+added : flask version has been added
+
+====================
+----- 26/08/2022 ---
+====================
+added : Django version added
+
+====================
+----- 22/07/2022 ---
+====================
+update angular theme 
+------------------
+Update : angular version 14.0.4
+Update : converted to bootstrap 5 
+Update : node version 16.10.0
+
+====================
+----- 7/12/2021 ---
+====================
+Updated : Upgrade To angular 13
+
+====================
+----- 25/09/2021 ---
+====================
+added : Vue versionnew layout added
+
+
+====================
+----- 17/05/2021 ---
+====================
+Angular 12 Updated
+
+====================
+----- 16/04/2021 ------
+====================
+
+HTML version : Solved issue(RTL version) in datepicker page
+Angular vesion added 12 new layouts and solved design issues
+React vesion added 12 new layouts and solved design issues
+Laravel vesion added 12 new layouts and update laravel 8 and bootstrap 5
+
+====================
+----- 16/04/2021 ------
+====================
+Added : figma vesion added
+
+====================
+----- 15/04/2021 ------
+====================
+Update : Html version landing page design updated
+fixed : menu issues
+
+====================
+----- 02/04/2021 ------
+====================
+Added : create common document for all versions
+removed : remove document from all version ex : html, react...
+Update : Html version is updated with with 12 layouts
+fixed : compact layout issues
+
+====================
+----- 21/01/2021 ------
+====================
+Update : Html version is updated with bootstrap 5
+
+====================
+----- 26/11/2020 ------
+====================
+Upgrade angular 11
+
+====================
+----- 24/11/2020 ------
+====================
+Added: Vue version added
+
+====================
+----- 16/10/2020(html) ------
+====================
+Changes : optimize scss
+Update : customizer position change
+Added: level menu added
+update : Knowledgebase page design
+update : compect menu design
+Added : Unlimited color from customizer
+
+====================
+----- 13/10/2020(Laravel) ------
+====================
+Updated : Laravel version 7 to 8
+====================
+----- 06/10/2020(React) ------
+====================
+Added : Auth0 and JWT token for login Authentication
+Added : SAGA
+Convert : static data to fetch from JSON using Axios
+Change : some SCSS structure for color changing
+
+====================
+----- 09/08/2020 ------
+====================
+Update : Fix some design issue(changes in style.css & script.js)
+
+====================
+----- 09/08/2020 ------
+====================
+Update : react theme fix some bugs
+Added : added 3 new apps to HTML version
+
+
+====================
+----- 02/08/2020 ------
+====================
+Added : React version added
+
+
+====================
+----- 29/7/2020 ------
+====================
+Added : laravel version added
+
